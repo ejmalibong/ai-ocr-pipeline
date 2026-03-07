@@ -1,0 +1,6 @@
+# Absolute minimum for working OCR pipeline
+opencv-python
+numpy
+matplotlib
+easyocr  # Includes both detection and recognition
+pyspellchecker
